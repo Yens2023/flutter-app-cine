@@ -4,7 +4,7 @@ Cambiar las variables de entorno (The MovieDB)
 App de Cine
 
 - pantalla principal
-![image](https://github.com/Yens2023/flutter-app-cine/assets/129354821/4aa73432-f2e9-4ad3-9dc6-86156cfbc83e)
+- ![image](https://github.com/Yens2023/flutter-app-cine/assets/129354821/4aa73432-f2e9-4ad3-9dc6-86156cfbc83e)
 
 - Busqueda de pelicula
 ![image](https://github.com/Yens2023/flutter-app-cine/assets/129354821/4e6255a9-6efc-4ea2-8718-14db77a00b5a)
