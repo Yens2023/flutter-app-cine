@@ -10,7 +10,8 @@ App de Cine
 ![image](https://github.com/Yens2023/flutter-app-cine/assets/129354821/4e6255a9-6efc-4ea2-8718-14db77a00b5a)
 
 - detalle película
-![image](https://github.com/Yens2023/flutter-app-cine/assets/129354821/4bba9956-75f0-42e4-881f-64ba40dc99fe)
+![image](https://github.com/Yens2023/flutter-app-cine/assets/129354821/9128b426-3819-451d-9768-ff73634c5223)
+
 ![image](https://github.com/Yens2023/flutter-app-cine/assets/129354821/a67f9293-3e4c-4069-9a4e-0b7e9ce7f850)
 
 - vista de películas populares
